@@ -1,0 +1,5 @@
+streamlit==0.80.0
+Pillow==8.2.0
+protobuf==3.20.*
+click==8.0.4
+ultralytics==8.0.101
